@@ -2,3 +2,7 @@
 node_modules
 *~
 npm-debug.log
+dist
+/dist
+/node_modules
+dist/main.js
